@@ -1,0 +1,56 @@
+{
+  "source": "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/CountriesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Countries",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search countries...",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Countries (%lld/5)",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search Results",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 65
+        }
+      }
+    ]
+  },
+  "version": 1
+}

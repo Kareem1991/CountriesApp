@@ -1,0 +1,24 @@
+{
+  "source": "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/CountryRow.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Capital: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 21
+        }
+      }
+    ]
+  },
+  "version": 1
+}

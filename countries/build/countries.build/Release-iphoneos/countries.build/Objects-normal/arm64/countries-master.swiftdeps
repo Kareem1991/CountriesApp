@@ -1,0 +1,32 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "6de6b9cea7dee4d38079dea8f315132f4b9a613b5b1390a5c54c9a5c208f86c8"
+build_start_time: [1758719560, 697532000]
+build_end_time: [1758719562, 992824000]
+inputs:
+  ? "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1758718987, 668233616]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/CountriesEndpointsProvider.swift": [1758715056, 760304307]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Data/Repositories/Remote/CountriesRemoteRepository.swift": [1758714125, 956059997]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Domain/Entities/CountriesResponseModel.swift": [1758716359, 623401270]
+  ? "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Domain/RepositoryInterfaces/CountriesRepositoryInterfaces.swift"
+  : [1758714125, 973908070]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Domain/UseCase/CountriesUseCase.swift": [1758714119, 52131290]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/Configurator/CountriesConfigurator.swift": [1758716432, 426265318]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/CountriesView.swift": [1758717740, 595187553]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/CountryDetailView.swift": [1758716359, 614640909]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/CountryRow.swift": [1758716359, 574484215]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/DetailRow.swift": [1758716359, 601556702]
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/ViewModel/CountriesViewModel.swift": [1758716598, 830724423]
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/HTTPMethods.swift": [1758712781, 580505075]
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/NetworkClient.swift": [1758715039, 960535075]
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/NetworkErrors.swift": [1758715031, 13363343]
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/NetworkRequest.swift": [1758715049, 767778946]
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/CountryService.swift": [1758717740, 553163422]
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/LocationService.swift": [1758718937, 545051196]
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/SearchService.swift": [1758716157, 396721875]
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/StorageService.swift": [1758716145, 253311688]
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/EmptyStateView.swift": [1758716889, 264106000]
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/ErrorView.swift": [1758716111, 486255161]
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/LoadingState.swift": [1758716766, 711230971]
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/LoadingView.swift": [1758716750, 934050142]
+  "/Users/kareem/CountriesApp/countries/countries/countriesApp.swift": [1758713918, 942004336]

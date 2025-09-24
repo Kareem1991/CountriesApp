@@ -1,0 +1,24 @@
+{
+  "source": "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/CountryDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Country Details",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 35
+        }
+      }
+    ]
+  },
+  "version": 1
+}

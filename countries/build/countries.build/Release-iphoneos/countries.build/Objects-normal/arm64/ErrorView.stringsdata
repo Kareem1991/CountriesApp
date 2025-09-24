@@ -1,0 +1,48 @@
+{
+  "source": "/Users/kareem/CountriesApp/countries/countries/App/Shared/ErrorView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Something went wrong",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Error",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try Again",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 58
+        }
+      }
+    ]
+  },
+  "version": 1
+}

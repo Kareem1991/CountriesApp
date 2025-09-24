@@ -1,0 +1,140 @@
+{
+  "" : {
+    "const-values" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countries-master.swiftconstvalues",
+    "dependencies" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countries-master.d",
+    "diagnostics" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countries-master.dia",
+    "emit-module-dependencies" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countries-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countries-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countries-master.swiftdeps"
+  },
+  "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/CountriesTest.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesTest.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesTest.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesTest.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/CountriesEndpointsProvider.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesEndpointsProvider.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesEndpointsProvider.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesEndpointsProvider.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Data/Repositories/Remote/CountriesRemoteRepository.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesRemoteRepository.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesRemoteRepository.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesRemoteRepository.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Domain/Entities/CountriesResponseModel.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesResponseModel.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesResponseModel.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesResponseModel.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Domain/RepositoryInterfaces/CountriesRepositoryInterfaces.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesRepositoryInterfaces.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesRepositoryInterfaces.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesRepositoryInterfaces.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Domain/UseCase/CountriesUseCase.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesUseCase.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesUseCase.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesUseCase.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/Configurator/CountriesConfigurator.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesConfigurator.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesConfigurator.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesConfigurator.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/CountriesView.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesView.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesView.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesView.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/CountryDetailView.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryDetailView.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryDetailView.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryDetailView.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/CountryRow.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryRow.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryRow.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryRow.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/View/ViewComponents/DetailRow.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/DetailRow.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/DetailRow.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/DetailRow.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Modules/Countries/Presentation/ViewModel/CountriesViewModel.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesViewModel.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesViewModel.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountriesViewModel.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/HTTPMethods.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/HTTPMethods.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/HTTPMethods.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/HTTPMethods.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/NetworkClient.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkClient.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkClient.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkClient.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/NetworkErrors.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkErrors.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkErrors.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkErrors.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Network/NetworkRequest.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkRequest.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkRequest.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/NetworkRequest.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/CountryService.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryService.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryService.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/CountryService.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/LocationService.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LocationService.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LocationService.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LocationService.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/SearchService.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/SearchService.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/SearchService.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/SearchService.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Services/StorageService.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/StorageService.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/StorageService.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/StorageService.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/EmptyStateView.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/EmptyStateView.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/EmptyStateView.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/EmptyStateView.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/ErrorView.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/ErrorView.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/ErrorView.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/ErrorView.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/LoadingState.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LoadingState.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LoadingState.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LoadingState.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/App/Shared/LoadingView.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LoadingView.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LoadingView.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/LoadingView.o"
+  },
+  "/Users/kareem/CountriesApp/countries/countries/countriesApp.swift" : {
+    "index-unit-output-path" : "/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countriesApp.o",
+    "llvm-bc" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countriesApp.bc",
+    "object" : "/Users/kareem/CountriesApp/countries/build/countries.build/Release-iphoneos/countries.build/Objects-normal/arm64/countriesApp.o"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/kareem/CountriesApp/countries/countries/App/Shared/EmptyStateView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No countries added yet",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search and add up to 5 countries to get started",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 17
+        }
+      }
+    ]
+  },
+  "version": 1
+}
