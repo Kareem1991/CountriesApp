@@ -1,8 +1,7 @@
-# Clean Architecture - Single Responsibility Principle
+# Clean Architecture 
 
 ## 🏗️ **Architecture Overview**
 
-The app now follows **Single Responsibility Principle** with clean separation of concerns:
 
 ```
 App/
